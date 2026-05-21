@@ -1,5 +1,5 @@
 ### Spelers
-- Speler X = __
+- Speler X = theumas
 - Speler O = __
 
 ### Bord (ultimate variant)
