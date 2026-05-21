@@ -1,6 +1,6 @@
 ### Spelers
 - Speler X = theumas
-- Speler O = __
+- Speler O = muiska
 
 ### Bord (ultimate variant)
 | - | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
